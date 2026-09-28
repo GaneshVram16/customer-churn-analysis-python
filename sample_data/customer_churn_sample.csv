@@ -1,0 +1,13 @@
+customer_id,tenure_months,contract,internet_service,tech_support,payment_method,senior_citizen,partner,dependents,paperless_billing,monthly_charges,total_charges,churn
+CUST-00001,40,Month-to-month,DSL,No,Electronic check,0,Yes,Yes,Yes,80.51,3207.13,Yes
+CUST-00002,55,Month-to-month,No,Yes,Credit card,0,Yes,Yes,No,38.49,1931.93,No
+CUST-00003,32,Two year,DSL,No,Electronic check,0,Yes,No,No,96.97,3199.85,No
+CUST-00004,2,One year,Fiber optic,No,Electronic check,0,No,Yes,No,55.2,20.0,No
+CUST-00005,13,Month-to-month,Fiber optic,No,Mailed check,0,Yes,No,Yes,77.63,1113.2,Yes
+CUST-00006,37,Month-to-month,DSL,Yes,Electronic check,0,No,No,Yes,65.13,2373.35,No
+CUST-00007,3,Two year,DSL,Yes,Credit card,1,Yes,No,Yes,75.59,349.82,Yes
+CUST-00008,66,Month-to-month,Fiber optic,No,Electronic check,0,No,Yes,No,52.06,3383.06,No
+CUST-00009,12,Month-to-month,No,No,Electronic check,0,No,No,No,55.26,806.79,No
+CUST-00010,69,Month-to-month,No,Yes,Credit card,0,Yes,No,Yes,75.04,5446.99,Yes
+CUST-00011,20,One year,DSL,No,Bank transfer,1,No,No,Yes,104.23,2205.61,No
+CUST-00012,36,Two year,DSL,No internet service,Mailed check,0,Yes,No,Yes,74.99,2440.91,No
